@@ -1,0 +1,2 @@
+# goodteacher
+react-native
